@@ -1,4 +1,4 @@
-# DiversityAndInclusionCommunityToolkit
+# Diversity And Inclusion Community Toolkit
 Diversity And Inclusion Tech Community Toolkit
 
 The Diversity And Inclusion Tech Community Toolkit has been put together to help technical communities, worldwide, to have a set of templates to help them to imbue Diversity and Inclusion in community events.
